@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeviceTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="access_token">pk.eyJ1IjoicGFwcHUxMTIiLCJhIjoiY2p1MXFpMXA4MDRmbzRlcGR6eGJsNWc4bSJ9.7G15lcFEe4YW1R63JgpXLQ</string>
+    <string name="new_location">New location</string>
+    <string name="start_tracking">start tracking</string>
+
+
+</resources>
